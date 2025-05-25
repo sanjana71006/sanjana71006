@@ -1,7 +1,8 @@
 <h1 align="center">✨ Hi there, I'm K. Sanjana Priya Darshini ✨</h1>
 <h3 align="center">💻 B.Tech Student @ Vignan University | 🤖 AI Explorer | 💡 Creative Coder</h3>
 
-<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW16bDkwYm9vcjU0czR6ODhzeXJmeHVudXNsdTRodmQ5M3Bsd3R6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" />
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+
 
 
 <p align="center">
