@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm K. Sanjana Priya Darshini</h1>
 <h3 align="center">B.Tech Student @ Vignan University | AI Enthusiast & Passionate Coder</h3>
 
-<img align="right" alt="Coding Girl" width="350" src="https://media.tenor.com/1P3l9vK1s1YAAAAC/anime-girl-cute-coding.gif" />
+<!-- ✅ Working Anime Girl GIF -->
+<img align="right" alt="Coding Girl" width="350" src="https://i.pinimg.com/originals/8e/56/fb/8e56fb41f9f080f3d8c462b37d211420.gif" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4F46E5&center=true&width=450&lines=Passionate+AI+Developer;Curious+Creator;Always+Learning+and+Coding!" alt="Typing SVG" />
 </p>
+
 <img align="right" alt="Cartoon Girl Coding" width="350" src="https://media.giphy.com/media/4aF1zE9n1O1m5Lztie/giphy.gif" />
 
 <p align="center">
@@ -22,23 +24,23 @@
 
 ### 🧰 Languages and Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -46,13 +48,13 @@
 ### 📫 Connect with me
 <p align="center">
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36" alt="Gmail" />
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36" />
+  </a>
   <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" />
+  </a>
   <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/github.png" width="36" alt="GitHub" />
+    <img src="https://img.icons8.com/material-outlined/48/github.png" width="36" />
   </a>
 </p>
 
