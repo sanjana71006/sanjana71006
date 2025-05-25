@@ -1,7 +1,8 @@
 <h1 align="center">✨ Hi there, I'm K. Sanjana Priya Darshini ✨</h1>
 <h3 align="center">💻 B.Tech Student @ Vignan University | 🤖 AI Explorer | 💡 Creative Coder</h3>
 
-<img align="right" alt="Coding Girl" width="350" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW16bDkwYm9vcjU0czR6ODhzeXJmeHVudXNsdTRodmQ5M3Bsd3R6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF61DA&center=true&width=500&lines=Passionate+AI+Developer;Curious+Problem+Solver;Building+Smart+Things+Everyday!" alt="Typing SVG" />
@@ -45,9 +46,6 @@
   <a href="https://www.bytexl.com/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/laptop-coding.png" width="36" alt="ByteXL"/>
   </a> &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/your-codechef-username" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codechef-a-competitive-programming-community-logo-color-tal-revivo.png" width="36" alt="CodeChef"/>
-  </a>
 </p>
 
 ---
