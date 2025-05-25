@@ -35,16 +35,16 @@
 
 ### 🌐 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjana-priya-darshini-kattamuri-629790217/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="36" alt="LinkedIn"/>
   </a> &nbsp;&nbsp;
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/sanjana71006" target="_blank">
     <img src="https://img.icons8.com/material-outlined/48/github.png" width="36" alt="GitHub"/>
   </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/your-insta-handle" target="_blank">
+  <a href="https://www.instagram.com/priyadarshini71006/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" alt="Instagram"/>
   </a> &nbsp;&nbsp;
-  <a href="https://www.bytexl.com/" target="_blank">
+  <a href="https://bytexl.app/sanjanapriyadarshinikattamuri" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/laptop-coding.png" width="36" alt="ByteXL"/>
   </a> &nbsp;&nbsp;
 </p>
