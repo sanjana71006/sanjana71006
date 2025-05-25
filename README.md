@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm K. Sanjana Priya Darshini</h1>
+<h3 align="center">B.Tech Student @ Vignan University | AI Enthusiast & Passionate Coder</h3>
 
-<!--
-**sanjana71006/sanjana71006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding Girl" width="350" src="https://media.tenor.com/1P3l9vK1s1YAAAAC/anime-girl-cute-coding.gif" />
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4F46E5&center=true&width=450&lines=Passionate+AI+Developer;Curious+Creator;Always+Learning+and+Coding!" alt="Typing SVG" />
+</p>
+<img align="right" alt="Cartoon Girl Coding" width="350" src="https://media.giphy.com/media/4aF1zE9n1O1m5Lztie/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&pause=1000&color=ff69b4&center=true&width=450&lines=AI+Developer;Creative+Problem+Solver;Forever+Curious+Coder!" alt="Typing SVG" />
+</p>
+
+- 🔭 I’m currently working on **exciting AI and smart project ideas**  
+- 🌱 I’m always learning **AI Agents, Prompt Engineering & Web Development**  
+- 👯 I’m looking to collaborate on **open-source and AI-related projects**  
+- 🤝 I’m open to help with **frontend, backend or AI development**  
+- ⚡ Fun fact: I’m enthusiastic about coding and exploring new tech every day! 😄
+
+---
+
+### 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="center">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36" alt="Gmail" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/github.png" width="36" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 🎯 My Goals for 2025:
+- ✅ Build my own AI Assistant  
+- 💼 Contribute actively to Open Source  
+- 🌈 Launch a stylish personal portfolio  
+- 📚 Master DevOps, Firebase & LangChain  
+
+---
+
+> *“Dream big, code smart, and never stop learning.”*
