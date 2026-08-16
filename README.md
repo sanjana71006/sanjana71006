@@ -1,63 +1,220 @@
-<h1 align="center">✨ Hi there, I'm K. Sanjana Priya Darshini ✨</h1>
-<h3 align="center">💻 B.Tech Student @ Vignan University | 🤖 AI Explorer | 💡 Creative Coder</h3>
+<h1 align="center">Hi, I'm Sanjana 👋</h1>
 
-<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW16bDkwYm9vcjU0czR6ODhzeXJmeHVudXNsdTRodmQ5M3Bsd3R6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" />
-
-
+<h3 align="center">
+Computer Science Engineer • AI/ML Enthusiast • Full-Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF61DA&center=true&width=500&lines=Passionate+AI+Developer;Curious+Problem+Solver;Building+Smart+Things+Everyday!" alt="Typing SVG" />
+  <a href="https://github.com/sanjana71006">
+    <img src="https://komarev.com/ghpvc/?username=sanjana71006&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/sanjana71006">
+    <img src="https://img.shields.io/github/followers/sanjana71006?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Solutions;Machine+Learning+%7C+Data+Science;Full-Stack+Development;Turning+Ideas+into+Working+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌟 I’m always curious about *AI, Prompt Engineering & Web Dev*
-- 💡 Currently working on *smart AI projects & creative coding*
-- 🤝 I love collaborating on *open-source & hackathons*
-- ✨ My goal? Make tech more *fun, smart & human!*
+## 🚀 About Me
+
+🎓 **B.Tech Computer Science & Engineering** student at **Vignan’s Foundation for Science, Technology & Research** with a **9.19/10 CGPA**.
+
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**.
+
+🧠 I enjoy transforming real-world problems into **data-driven and intelligent solutions**.
+
+🔬 Published research on **Software Defect Prediction for Sprint Testing Prioritization in Agile Development**.
+
+🏆 Hackathon enthusiast with multiple wins and finalist experiences, including **1st Place in Hackathon 2025** and **2nd Place at Hack X Amrita 2.0**.
+
+☁️ **AWS Certified Cloud Practitioner** and selected for **Amazon Machine Learning Summer School 2026**.
+
+💻 Currently strengthening my skills in **C#, .NET, SQL, Angular, DSA, and modern AI development**.
 
 ---
 
-### 🛠 Tech Stack & Tools:
+## 🧠 What I Work With
+
+### 💻 Programming
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
+</p>
+
+`Scikit-learn` • `TensorFlow` • `Keras` • `NumPy` • `Pandas` • `NLP` • `TF-IDF` • `Supervised Learning`
+
+### 🌐 Web Development
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="42"/>
+</p>
+
+### 🛠 Tools & Platforms
+
+`GitHub` • `VS Code` • `Jupyter Notebook` • `Google Colab` • `Overleaf` • `Orange` • `StarUML` • `AWS`
+
+---
+
+## 🔥 Featured Projects
+
+### 🛡️ CyberShield — NLP-Powered Cyberbullying Detection
+
+An NLP-based system designed to identify toxic and cyberbullying content.
+
+* 📊 Combined **230,000+ comments and tweets**
+* 🧹 Applied NLP preprocessing and TF-IDF feature extraction
+* 🤖 Experimented with Logistic Regression, SVM, Random Forest, BERT & RoBERTa
+* 🎯 Achieved **90%+ classification accuracy**
+
+---
+
+### 🧬 Quantiva Explorer — AI-Assisted Drug Discovery
+
+An AI-assisted platform for exploring and prioritizing potential drug candidates.
+
+* 🧪 Built using the **Delaney Solubility Dataset** and molecular property data
+* 🔬 Engineered molecular descriptors such as Molecular Weight, XLogP, HBD & HBA
+* 🧠 Implemented probabilistic candidate-ranking techniques
+* 🌐 Combined AI/ML concepts with interactive molecular exploration
+
+---
+
+### 💳 Credit Card Fraud Detection
+
+Machine-learning pipeline for detecting fraudulent financial transactions.
+
+* 💰 Analyzed **284,000+ transactions**
+* ⚖️ Addressed severe class imbalance using **SMOTE**
+* 🌲 Trained Random Forest and XGBoost models
+* 📈 Achieved **ROC-AUC > 0.99**
+
+---
+
+## 🔬 Research
+
+### 📄 Software Defect Prediction for Sprint Testing Prioritization in Agile Development
+
+**Published in JETIR — Volume 13, Issue 5, May 2026**
+
+Research focused on applying machine learning to software defect prediction and prioritizing testing activities in Agile development environments.
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Place** — Hackathon 2025, CSE × ByteXL
+
+🥈 **2nd Place** — Hack X Amrita 2.0, Amrita Vishwa Vidyapeetham
+
+🥉 **3rd Prize** — CIS' Soiree Scintilla Technical Competition
+
+🏅 **VBYLD 2026 Finalist** — Selected among 3000 finalists from 50 lakh+ participants nationwide
+
+🎓 **Department Academic Topper** — CSE, VFSTR
+
+🤖 **Amazon Machine Learning Summer School 2026 — Selected**
+
+☁️ **AWS Certified Cloud Practitioner — CLF-C02**
+
+---
+
+## 📜 Certifications
+
+* ☁️ AWS Certified Cloud Practitioner — AWS
+* 🤖 Amazon Machine Learning Summer School 2026
+* 🧠 NPTEL Elite — Joy of Computing Using Python
+* 📊 NPTEL Elite — Management Information Systems
+* 🎤 NPTEL Elite — Public Speaking
+* 🌐 Cisco — Introduction to Modern AI
+* 📊 Cisco — Introduction to Data Science
+* 🐍 Cisco — Python Essentials 1 & 2
+* 🇬🇧 Cambridge Linguaskill Business — B2 Overall
+
+---
+
+## 💼 Experience & Leadership
+
+### 🤖 Artificial Intelligence Intern — SmartED Innovations
+
+**Jun 2025 – Sep 2025**
+
+Developed a sentiment analysis solution using Python, NLP, TF-IDF, and machine learning techniques for text preprocessing, feature extraction, classification, and evaluation.
+
+### 🎬 Media Cell — Video Editor
+
+Edited and produced **20+ motivational and promotional videos**.
+
+### 🎯 Event Coordinator — VCode Fest 2025
+
+Coordinated **300+ participants across 6 technical events**.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana71006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana71006&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me:
+## 🐍 Contribution Graph
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjana-priya-darshini-kattamuri-629790217/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" alt="LinkedIn"/>
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/sanjana71006" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/github.png" width="36" alt="GitHub"/>
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/priyadarshini71006/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" alt="Instagram"/>
-  </a> &nbsp;&nbsp;
-  <a href="https://bytexl.app/sanjanapriyadarshinikattamuri" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/laptop-coding.png" width="36" alt="ByteXL"/>
-  </a> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sanjana71006/sanjana71006/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-### 🎯 2025 Goals:
-- 🌱 Build a smart *AI Assistant*
-- 🌐 Launch a stunning *portfolio website*
-- 🛠 Master *LangChain, Firebase, and DevOps*
-- 🤝 Join more *open-source communities*
-- 🚀 Compete in more *coding contests*
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sanjana-priya-darshini-kattamuri-629790217/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="42"/>
+</a>
+
+  
+
+<a href="https://github.com/sanjana71006">
+<img src="https://img.icons8.com/material-outlined/48/github.png" width="42"/>
+</a>
+
+  
+
+<a href="https://leetcode.com/">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="42"/>
+</a>
+
+</p>
 
 ---
 
-> 💬 "Stay curious, stay kind, and code with sparkle!" 💖
+<p align="center">
+  <b>💡 Build. Learn. Experiment. Repeat.</b>
+</p>
+
+<p align="center">
+  <i>Always curious. Always building. 🚀</i>
+</p>
