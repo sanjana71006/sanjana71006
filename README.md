@@ -170,28 +170,11 @@ Coordinated **300+ participants across 6 technical events**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjana71006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana71006&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjana71006/sanjana71006/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sanjana-priya-darshini-kattamuri-629790217/">
+<a href="https://www.linkedin.com/in/kattamuri-sanjana-priya-darshini-629790217/">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="42"/>
 </a>
 
@@ -201,11 +184,6 @@ Coordinated **300+ participants across 6 technical events**.
 <img src="https://img.icons8.com/material-outlined/48/github.png" width="42"/>
 </a>
 
-  
-
-<a href="https://leetcode.com/">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="42"/>
-</a>
 
 </p>
 
