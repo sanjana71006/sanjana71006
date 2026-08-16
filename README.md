@@ -173,18 +173,13 @@ Coordinated **300+ participants across 6 technical events**.
 ## 🌐 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/kattamuri-sanjana-priya-darshini-629790217/">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="42"/>
-</a>
-
-  
-
-<a href="https://github.com/sanjana71006">
-<img src="https://img.icons8.com/material-outlined/48/github.png" width="42"/>
-</a>
-
-
+  <a href="https://www.linkedin.com/in/kattamuri-sanjana-priya-darshini-629790217/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sanjana71006">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
+  </a>
 </p>
 
 ---
