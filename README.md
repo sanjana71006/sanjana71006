@@ -5,15 +5,6 @@ Computer Science Engineer • AI/ML Enthusiast • Full-Stack Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/sanjana71006">
-    <img src="https://komarev.com/ghpvc/?username=sanjana71006&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/sanjana71006">
-    <img src="https://img.shields.io/github/followers/sanjana71006?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Solutions;Machine+Learning+%7C+Data+Science;Full-Stack+Development;Turning+Ideas+into+Working+Projects" alt="Typing SVG" />
 </p>
 
